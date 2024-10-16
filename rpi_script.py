@@ -1,0 +1,1 @@
+print("I CAN OUTPUT TO CONSOLE")
